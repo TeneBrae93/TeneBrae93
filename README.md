@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TeneBrae93
-- 👀 I’m interested in learning programming through the Odin Project.
-- 🌱 I’m currently learning the basics of programming and web development. 
+- 👀 I’m interested in learning scripting and offensive security. 
 - 💞️ I’m looking to collaborate on any projects that will expand my learning. 
 - 📫 How to reach me by emailing me at tyramsbey@gmail.com. 
 
